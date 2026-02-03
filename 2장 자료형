@@ -1,0 +1,21 @@
+                                                     * 자료형
+- 기본 자료형 : 8가지
+	- 정수(소수점없는) : byte< short< int< long   (int 중요) 
+	- 실수(소수점있는) : float< double   (double 중요)
+	- 문자 : char => 글자1자 => 반드시 작은 따옴표로 감싼 1자. 'a'
+	- 불린(블리언) : boolean = true, false
+- 참조(자료)형 : 기본 자료형 나머지
+
+비트가 큰게좋음 (비트가 크면 도로가 넓어서 한번에 처리가 수월)
+	byte  : 1byte =8bit  =256    -128 ~127 (안에 숫자까지만 담을수있음)
+	short : 2byte =16bit =65535  -32768 ~ 32767
+	int   : 4byte =32bit = 21억   -10억 ~ 10억
+	long  : 8byte =64bit
+	 
+	 bit : 0,1 (이진수)
+	 1bit :8bit 
+	 float : 4byte
+	 double : 8byte
+ 
+ 문자열 + 문자열 = 문자열결합
+ 모든 자료형에 문자열을 더하며나 = 문자열결합
