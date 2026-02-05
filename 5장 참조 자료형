@@ -25,3 +25,8 @@
       System.out.println(변수이름.length); // 배열의 크기(길이)      
 	  System.out.println(Arrays.toString(변수이름)); //배열안에 뭐있나 확인가능
 	  System.out.println(변수이름[0]); //0번째 인덱스에 있는거 갖고와
+	  
+	   .trim()
+	   .substring(시작인덱스, 마지막인덱스 -1)
+	   .replace("","");
+	   .split("공통된 구분자"); // 배열로만들어라
